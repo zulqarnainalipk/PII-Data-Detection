@@ -44,3 +44,7 @@ I acknowledge The Learning Agency Lab organizers for providing the dataset and t
 
 Let's get started! Feel free to reach out if you have any questions or need assistance along the way.
 👉 [Visit my Profile](https://www.kaggle.com/zulqarnainalipk) 👈
+
+
+## 📊 All datasets can be automatically imported by running them on Kaggle.
+## 🚀 Using Accelerator GPU T4 x2 by Kaggle on Kaggle is recommended.
