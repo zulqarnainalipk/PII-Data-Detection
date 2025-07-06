@@ -1,0 +1,17 @@
+torch
+pandas
+numpy
+transformers
+datasets
+scikit-learn
+spacy
+tqdm
+text_unidecode
+onnx
+onnxruntime-gpu
+
+
+
+onnxconverter_common
+
+
